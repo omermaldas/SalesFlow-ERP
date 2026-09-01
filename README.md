@@ -60,6 +60,9 @@ The project was developed to gain practical experience with ERP processes, datab
 
 ![Dashboard](dashboard.png)
 
+### Orders
+
+![Orders](orders.png)
 ## Disclaimer
 
 This is a sample project developed for educational and internship purposes. It does not contain confidential company data or proprietary source code.
