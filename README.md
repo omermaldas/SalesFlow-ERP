@@ -54,6 +54,12 @@ SalesFlowERP/
 
 The project was developed to gain practical experience with ERP processes, database management, REST APIs, backend development, and frontend development.
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
 ## Disclaimer
 
 This is a sample project developed for educational and internship purposes. It does not contain confidential company data or proprietary source code.
